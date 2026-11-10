@@ -81,6 +81,5 @@ live in `skills/<name>/`.
 - `/retro` is adapted from Matt Pocock's
   [retro skill](https://github.com/mattpocock/skills/blob/main/skills/engineering/retro/SKILL.md)
   (MIT License, © 2026 Matt Pocock).
-- `/handover` is my own skill, in daily use since February 2026.
 
 Write-up: https://gokulkannank.substack.com/
