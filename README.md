@@ -10,7 +10,9 @@ copy-paste prompt that shows you a plan before writing anything.
 | Episode | Title | Prompt |
 | --- | --- | --- |
 | Ep. 01 | My AI forgets everything. So I gave it a filing cabinet. | [`episodes/ep01-filing-cabinet/`](episodes/ep01-filing-cabinet/) |
-| Ep. 02 | `/handover` + `/retro` | *planned* |
+| Ep. 02 | The context window | *planned* |
+| Ep. 03 | `/handover` | *planned* |
+| Ep. 04 | `/retro` | *planned* |
 
 ## Ep. 01 — the context system
 
